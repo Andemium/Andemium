@@ -1,4 +1,5 @@
  one Love
+ 
 🔹 **Веб-разработка** — моя страсть: HTML, CSS, JavaScript  
 🔹 **Бэкенд & скрипты**: Python, Java, Kotlin  
 🔹 **Инструменты**: IntelliJ IDEA, Visual Studio Code, Git Bash, Oracle VirtualBox  
