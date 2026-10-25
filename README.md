@@ -13,7 +13,6 @@
 
 ## 🔹| Инструменты |
 
-| :--- | :--- |
 | **Frontend:** HTML, CSS, JavaScript | IntelliJ IDEA, VS Code |
 | **Backend:** Python, Java, Kotlin | Git Bash, Oracle VirtualBox |
 | **Passion:** Веб-разработка & Чистый код | Linux, Terminal |
